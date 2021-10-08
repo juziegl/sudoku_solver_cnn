@@ -1,2 +1,2 @@
 # sudoku_solver_cnn
-Sudoku solver with CNN
+I create a Sudoku Solver with CNN. 
