@@ -1,4 +1,4 @@
-## Sudoku Solver CNN
+## sudoku solver CNN
 
 Hi! I created a sudoku solver ai. First the software prepoccesses an image of a sudoku and reads out the numbers. The neural network recognizes the numbers in the image and writes it to a matrix. The model is trained and tested on the dataset chars74k (http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/), which I modified so only the data with numbers is used. I achieved an accuracy of 98,32 %. After that the sudoku is solved with a backtracking algorithm.
 
