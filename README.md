@@ -7,7 +7,7 @@ If you want to use my dataset, just download the zipfiles and extract them to yo
 </br>
 
 <br>
-In the pictures you can see the image preprocess and the result. 
+In the pictures you can see the preprocess of the sudoku and the result. 
 </br>
 <div>
     <img src="https://user-images.githubusercontent.com/89871999/136822150-c1289640-ee51-4beb-b44d-b13dd6230c5d.jpg" width="200" height="200" alt="" style="margin:5px" align="left">
